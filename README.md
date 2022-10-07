@@ -1,3 +1,12 @@
+# Setup
+
+Admin Powershell: pip install streamlit plotly openpyxl
+
+streamlit run app.py
+
+http://localhost:8501
+
+
 
 # Interactive Dashboard with Python – Streamlit
 
